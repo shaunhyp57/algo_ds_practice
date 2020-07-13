@@ -1,14 +1,16 @@
 ''' 
 Cracking The Coding Interview: 
-Ch 1: Q1 - is Unique
+Ch 1 Arrays and Strings: 
+Q1 - Is Unique
 "Implement an algorithm to determine if a string has all unique characters. 
 What if you cannot use additional data structures?"
 
-Solutions:
+Solutions:      Time Complexity:
 Brute Force     O(n^2)
 Dictionary      O(n)
 Set             O(n)
 Alphabet String O(n)
+
 
 Note: this  implementation assumes that the input strings only include alphabet chars
       and that spaces are ignored
